@@ -1,0 +1,85 @@
+{
+    "products":[{
+        "id" : 1,
+        "name" : "Caneta BIC Preta",
+        "price" : 5.89
+        },
+        {
+        "id" : 2,
+        "name" : "Notebook Mac Pro",
+        "price" : 12000.00
+        },{
+        "id" : 3,
+        "name" : "Samsung S20+",
+        "price" : 2890.98
+        },{
+        "id" : 4,
+        "name" : "Iphone 8 plus",
+        "price" : 1584.00
+        },{
+        "id" : 5,
+        "name" : "Teclado Mecânico",
+        "price" : 448.99
+        },{
+        "id" : 6,
+        "name" : "Mochila de Camping",
+        "price" : 159.99
+        },{
+        "id" : 7,
+        "name" : "Smartwatch Amazfit",
+        "price" : 349.00
+        },{
+        "id" : 8,
+        "name" : "Bicicleta Aro 29",
+        "price" : 2999.99
+        },{
+        "id" : 9,
+        "name" : "Livro: O Poder do Hábito",
+        "price" : 39.90
+        },{
+        "id" : 10,
+        "name" : "Fone de Ouvido Bluetooth",
+        "price" : 89.99
+        },{
+        "id" : 11,
+        "name" : "Cadeira de Escritório",
+        "price" : 699.00
+        },{
+        "id" : 12,
+        "name" : "Monitor Gamer",
+        "price" : 1699.00
+        },{
+        "id" : 13,
+        "name" : "Impressora Multifuncional",
+        "price" : 499.00
+        },{
+        "id" : 14,
+        "name" : "Smart TV 4K",
+        "price" : 3299.00
+        },{
+        "id" : 15,
+        "name" : "Câmera Fotográfica Profissional",
+        "price" : 7999.00
+        },{
+        "id" : 16,
+        "name" : "Aparelho de Jantar",
+        "price" : 179.90
+        },{
+        "id" : 17,
+        "name" : "Panela Elétrica de Arroz",
+        "price" : 129.99
+        },{
+        "id" : 18,
+        "name" : "Luminária de Mesa",
+        "price" : 49.99
+        },{
+        "id" : 19,
+        "name" : "Carrinho de Bebê",
+        "price" : 699.00
+        },{
+        "id" : 20,
+        "name" : "Robô Aspirador de Pó",
+        "price" : 1299.00
+        }
+        ]
+}
