@@ -1,11 +1,29 @@
 .header{
     display : flex;
     align-items: center;
-    padding-top: 115px;
+    padding-top: 95px;
+    background-color: coral;
 }
-
+.header .content{
+    display: flex;
+    padding-bottom: 85px;
+    align-items: center;
+}
 .header a {
     display: flex;
     align-items: center;
     text-decoration: none;
 }
+
+.header .logo{
+    max-height: 85px;
+}
+
+.header .title-group{
+    padding-left: 25px;
+}
+
+.header .title-group i{
+    padding-right: 10px;
+}
+
